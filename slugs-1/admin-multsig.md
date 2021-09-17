@@ -10,10 +10,3 @@ With launch of the Mobius governance token, the Mobius protocol will officially 
 The Mobius admin keys are controlled by a 3/4 multisig. The signers are Dylan Mooers, Kyle Scott, Robert Leifke, and Eric Cuellar. This multisig has capabilities to pause new deposits and trades in case of technical emergencies. Users will always be able to withdraw their funds regardless of new deposits being paused. The multisig can also change the swap fees.
 {% endhint %}
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the w
-```
-{% endcode %}
-
