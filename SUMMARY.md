@@ -7,7 +7,7 @@
 ## guides <a id="slugs-1"></a>
 
 * [Understanding Mobius](slugs-1/understanding-mobius.md)
-* [Wallet support](slugs-1/wallet-support.md)
+* [Connecting wallets](slugs-1/wallet-support.md)
 * [MobiusDAO](slugs-1/admin-multsig.md)
 * [Providing liquidity](slugs-1/providing-liquidity.md)
 
