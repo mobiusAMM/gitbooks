@@ -4,8 +4,6 @@
 
 In order to facilitate liquidity onboarding to the Celo network, we have partnered with the moss.earth team to add new assets to the existing moss token bridge. Currently, the moss token bridge supports the bidirectional bridging of the native cUSD and MCO2. The bridge was initially forked from the RSK bridge. This bridge allows for token transfers by having sets of contracts on the Ethereum and Celo chains using a federation network as an intermediary. The federation network consists of multiple federators that report the transactions on the base chain. Once enough confirmations have been produced by the federators, the transaction is published on the destination chain. We are aware of the centralized nature of the bridge but we want to give users the ability to bridge assets if they want to. 
 
-
-
 **Moss Bridge average confirmation time:** ~1 hour and 15 minutes.
 
 Below is tutorial by @human0x on how to use it from the original bridge UI.
