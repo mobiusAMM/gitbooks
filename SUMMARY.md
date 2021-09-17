@@ -26,7 +26,7 @@
 
 * [ERC20MOBI.vy](developers-docs/erc20mobi.vy.md)
 * [VotingEscrow.vy](developers-docs/votingescrow.vy.md)
-* [GuageContoller.vy](developers-docs/guagecontoller.vy.md)
+* [GaugeContoller.vy](developers-docs/gaugecontoller.vy.md)
 
 ## Links
 

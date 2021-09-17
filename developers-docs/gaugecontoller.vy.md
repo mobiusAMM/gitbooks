@@ -1,4 +1,4 @@
-# GuageContoller.vy
+# GaugeContoller.vy
 
 The contract holds a list of guage types and their corresponding weights. Each guage stores the values of points per vote in the function vote\_points. Below are all changes to the initial gauge controller from the curveDAO. 
 
