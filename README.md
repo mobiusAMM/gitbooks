@@ -1,4 +1,4 @@
 # gitbooks
 docs on mobius.money
 
-# Switch to main branch -- will merge later
+# Switch to master branch -- will merge later
