@@ -16,7 +16,9 @@ As an added benefit, holders of veMOBI can also vote on the rewards allocation t
 
 ### Release Schedule <a id="b410"></a>
 
-MOBI tokens will be minted following an exponential decay release schedule. You can see the release schedule for each category below:![](https://miro.medium.com/max/30/1*ZYC51damdedQ5Z7UgWDYpg.png?q=20)![](https://miro.medium.com/max/700/1*ZYC51damdedQ5Z7UgWDYpg.png)
+MOBI tokens will be minted following an exponential decay release schedule. You can see the release schedule for each category below:
+
+![](https://miro.medium.com/max/700/1*ZYC51damdedQ5Z7UgWDYpg.png)
 
 ## MOBI Matrix <a id="0665"></a>
 
