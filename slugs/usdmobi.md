@@ -1,7 +1,5 @@
 # $MOBI
 
-
-
 > $MOBI is a governance token that has voting rights in the MobiusDAO. This article covers how the token will be minted, distributed, and put to work across the Celo ecosystem.
 
 ### Community-driven Fair Launch <a id="b282"></a>
